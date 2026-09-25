@@ -16,6 +16,7 @@ leet code problems solved
 | ------- |
 | [0002-add-two-numbers](https://github.com/pblovesbs/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pblovesbs/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/pblovesbs/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ leet code problems solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pblovesbs/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/pblovesbs/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
