@@ -17,10 +17,8 @@ struct ListNode* swapPairs(struct ListNode* head) {
 
             struct ListNode *temp1 = temp->next;
 
-            // Connect temp to the node after temp1
             temp->next = temp1->next;
 
-            // Put temp1 before temp
             temp1->next = temp;
 
             if (i == 1) {
@@ -30,7 +28,6 @@ struct ListNode* swapPairs(struct ListNode* head) {
                 prev->next = temp1;
             }
 
-            // temp is now the second node of the pair
             prev = temp;
             temp = temp->next;
         }
