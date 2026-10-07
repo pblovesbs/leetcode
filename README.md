@@ -20,6 +20,7 @@ leet code problems solved
 | [0041-first-missing-positive](https://github.com/pblovesbs/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/pblovesbs/leetcode/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pblovesbs/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ leet code problems solved
 | [0004-median-of-two-sorted-arrays](https://github.com/pblovesbs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pblovesbs/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pblovesbs/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pblovesbs/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
 ## Divide and Conquer
 |  |
