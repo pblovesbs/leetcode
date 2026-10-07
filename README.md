@@ -19,6 +19,7 @@ leet code problems solved
 | [0040-combination-sum-ii](https://github.com/pblovesbs/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/pblovesbs/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/pblovesbs/leetcode/tree/master/0135-candy) |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ leet code problems solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pblovesbs/leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/pblovesbs/leetcode/tree/master/0135-candy) |
 ## Sorting
 |  |
 | ------- |
