@@ -39,6 +39,7 @@ leet code problems solved
 | [0023-merge-k-sorted-lists](https://github.com/pblovesbs/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pblovesbs/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pblovesbs/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/pblovesbs/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/pblovesbs/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/pblovesbs/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -64,6 +65,7 @@ leet code problems solved
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pblovesbs/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/pblovesbs/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/pblovesbs/leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/pblovesbs/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
