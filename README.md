@@ -17,11 +17,13 @@ leet code problems solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pblovesbs/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pblovesbs/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pblovesbs/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/pblovesbs/leetcode/tree/master/0041-first-missing-positive) |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pblovesbs/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/pblovesbs/leetcode/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
