@@ -56,10 +56,12 @@ leet code problems solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/pblovesbs/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/pblovesbs/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -121,4 +123,12 @@ leet code problems solved
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pblovesbs/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pblovesbs/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
