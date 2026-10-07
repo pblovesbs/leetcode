@@ -22,11 +22,13 @@ leet code problems solved
 | [0135-candy](https://github.com/pblovesbs/leetcode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pblovesbs/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pblovesbs/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/pblovesbs/leetcode/tree/master/0041-first-missing-positive) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +38,7 @@ leet code problems solved
 | [0023-merge-k-sorted-lists](https://github.com/pblovesbs/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pblovesbs/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pblovesbs/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +105,7 @@ leet code problems solved
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pblovesbs/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -128,6 +132,7 @@ leet code problems solved
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Treap
 |  |
 | ------- |
@@ -145,4 +150,12 @@ leet code problems solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/pblovesbs/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
