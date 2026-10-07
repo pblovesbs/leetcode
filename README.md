@@ -16,6 +16,7 @@ leet code problems solved
 | [0033-search-in-rotated-sorted-array](https://github.com/pblovesbs/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pblovesbs/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pblovesbs/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pblovesbs/leetcode/tree/master/0040-combination-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,5 @@ leet code problems solved
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pblovesbs/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/pblovesbs/leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
