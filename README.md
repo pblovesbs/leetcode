@@ -9,6 +9,7 @@ leet code problems solved
 | [0001-two-sum](https://github.com/pblovesbs/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pblovesbs/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pblovesbs/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pblovesbs/leetcode/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ leet code problems solved
 | [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pblovesbs/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pblovesbs/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pblovesbs/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pblovesbs/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
@@ -57,4 +59,5 @@ leet code problems solved
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pblovesbs/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/pblovesbs/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
