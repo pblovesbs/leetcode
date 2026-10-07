@@ -31,5 +31,18 @@ leet code problems solved
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pblovesbs/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
