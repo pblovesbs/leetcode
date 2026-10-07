@@ -18,6 +18,7 @@ leet code problems solved
 | [0039-combination-sum](https://github.com/pblovesbs/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pblovesbs/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/pblovesbs/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
 | [0327-count-of-range-sum](https://github.com/pblovesbs/leetcode/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ leet code problems solved
 | [0018-4sum](https://github.com/pblovesbs/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pblovesbs/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/pblovesbs/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ leet code problems solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pblovesbs/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/pblovesbs/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -129,8 +132,13 @@ leet code problems solved
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pblovesbs/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pblovesbs/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pblovesbs/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
